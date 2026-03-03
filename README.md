@@ -23,12 +23,18 @@ work in progress
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 0%](https://img.shields.io/badge/Concepticon-0%25-red.svg "Concepticon: 0%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
+![BIPA: 76%](https://img.shields.io/badge/BIPA-76%25-yellow.svg "BIPA: 76%")
+![CLTS SoundClass: 76%](https://img.shields.io/badge/CLTS%20SoundClass-76%25-yellow.svg "CLTS SoundClass: 76%")
 
 - **Varieties:** 1 (linked to 1 different Glottocodes)
 - **Concepts:** 203 (linked to 0 different Concepticon concept sets)
 - **Lexemes:** 207
 - **Sources:** 1
 - **Synonymy:** 1.02
+- **Invalid lexemes:** 0
+- **Tokens:** 969
+- **Segments:** 37 (9 BIPA errors, 9 CLTS sound class errors, 28 CLTS modified)
+- **Inventory size (avg):** 37.00
 
 # Contributors
 
@@ -45,4 +51,4 @@ Rebecca Lethgo | @RebeccaLethgo | CLDF conversion, maintenance | Editor |
 
 The following CLDF datasets are available in [cldf](cldf):
 
-- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf/cldf-metadata.json](cldf/cldf-metadata.json)
+- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf\cldf-metadata.json](cldf\cldf-metadata.json)
