@@ -1,208 +1,209 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Graphemes,Profile
-Mochica-1-1,,Mochica,1,alök,alök,a l ö k,,Cerron,,,^ a l ö k $,default
-Mochica-2-1,,Mochica,2,alaiñsök,alaiñsök,a l a i ñs ö k,,Cerron,,,^ a l a i ñs ö k $,default
-Mochica-3-1,,Mochica,3,altör,altör,a l t ö r,,Cerron,,,^ a l t ö r $,default
-Mochica-4-1,,Mochica,4,amoŝ,amoŝ,a m o ŝ,,Cerron,,,^ a m o ŝ $,default
-Mochica-207-1,,Mochica,207,açl̃,açl̃,a ç l̃,,Cerron,,,^ a ç l̃ $,default
-Mochica-6-1,,Mochica,6,ayapök,ayapök,a y a p ö k,,Cerron,,,^ a y a p ö k $,default
-Mochica-7-1,,Mochica,7,ayesön,ayesön,a y e s ö n,,Cerron,,,^ a y e s ö n $,default
-Mochica-178-1,,Mochica,178,ayo,ayo,a y o,,Cerron,,,^ a y o $,default
+Mochica-1-1,,Mochica,1,alök,alök,a l ø k,,Cerron,,,^ a l ö k $,default
+Mochica-2-1,,Mochica,2,alaiñsök,alaiñsök,a l a i ɲ s ø k,,Cerron,,,^ a l a i ñ s ö k $,default
+Mochica-3-1,,Mochica,3,altör,altör,a l t ø ɾ,,Cerron,,,^ a l t ö r $,default
+Mochica-4-1,,Mochica,4,amoŝ,amoŝ,a m o ʂ,,Cerron,,,^ a m o ŝ $,default
+Mochica-207-1,,Mochica,207,açl̃,açl̃,a ɬ,,Cerron,,,^ a çl̃ $,default
+Mochica-6-1,,Mochica,6,ayapök,ayapök,a j a p ø k,,Cerron,,,^ a y a p ö k $,default
+Mochica-7-1,,Mochica,7,ayesön,ayesön,a j e s ø n,,Cerron,,,^ a y e s ö n $,default
+Mochica-178-1,,Mochica,178,ayo,ayo,a j o,,Cerron,,,^ a y o $,default
 Mochica-9-1,,Mochica,9,tsan,tsan,ts a n,,Cerron,,,^ ts a n $,default
 Mochica-10-1,,Mochica,10,tsaɳ,tsaɳ,ts a ɳ,,Cerron,,,^ ts a ɳ $,default
 Mochica-11-1,,Mochica,11,tsek,tsek,ts e k,,Cerron,,,^ ts e k $,default
-Mochica-12-1,,Mochica,12,tsöič,tsöič,ts ö i č,,Cerron,,,^ ts ö i č $,default
+Mochica-12-1,,Mochica,12,tsöič,tsöič,ts ø i tʃ,,Cerron,,,^ ts ö i č $,default
 Mochica-13-1,,Mochica,13,tsipa,tsipa,ts i p a,,Cerron,,,^ ts i p a $,default
 Mochica-14-1,,Mochica,14,tsisi,tsisi,ts i s i,,Cerron,,,^ ts i s i $,default
 Mochica-15-1,,Mochica,15,tsuted,tsuted,ts u t e d,,Cerron,,,^ ts u t e d $,default
-Mochica-16-1,,Mochica,16,tyantik,tyantik,t y a n t i k,,Cerron,,,^ t y a n t i k $,default
-Mochica-17-1,,Mochica,17,tyaɳ,tyaɳ,t y a ɳ,,Cerron,,,^ t y a ɳ $,default
-Mochica-18-1,,Mochica,18,tyap,tyap,t y a p,,Cerron,,,^ t y a p $,default
-Mochica-19-1,,Mochica,19,tyety,tyety,t y e t y,,Cerron,,,^ t y e t y $,default
-Mochica-20-1,,Mochica,20,tyelfe,tyelfe,t y e l f e,,Cerron,,,^ t y e l f e $,default
-Mochica-21-1,,Mochica,21,tyelu:,tyelu:,t y e l uː,,Cerron,,,^ t y e l u: $,default
-Mochica-22-1,,Mochica,22,tyepuk,tyepuk,t y e p u k,,Cerron,,,^ t y e p u k $,default
-Mochica-23-1,,Mochica,23,työföt,työföt,t y ö f ö t,,Cerron,,,^ t y ö f ö t $,default
-Mochica-24-1,,Mochica,24,työtöŝ,työtöŝ,t y ö t ö ŝ,,Cerron,,,^ t y ö t ö ŝ $,default
-Mochica-25-1,,Mochica,25,työtymöd,työtymöd,t y ö t y m ö d,,Cerron,,,^ t y ö t y m ö d $,default
-Mochica-26-1,,Mochica,26,tyiktuk,tyiktuk,t y i k t u k,,Cerron,,,^ t y i k t u k $,default
-Mochica-27-1,,Mochica,27,tyilpi,tyilpi,t y i l p i,,Cerron,,,^ t y i l p i $,default
-Mochica-28-1,,Mochica,28,Tyimor,Tyimor,<?> y i m o r,,Cerron,,,^ T y i m o r $,default
-Mochica-29-1,,Mochica,29,tyolu,tyolu,t y o l u,,Cerron,,,^ t y o l u $,default
-Mochica-30-1,,Mochica,30,tyuŝku,tyuŝku,t y u ŝ k u,,Cerron,,,^ t y u ŝ k u $,default
-Mochica-31-1,,Mochica,31,tyutu,tyutu,t y u t u,,Cerron,,,^ t y u t u $,default
-Mochica-32-1,,Mochica,32,čaɳ,čaɳ,č a ɳ,,Cerron,,,^ č a ɳ $,default
-Mochica-33-1,,Mochica,33,čaɳil̃,čaɳil̃,č a ɳ i l̃,,Cerron,,,^ č a ɳ i l̃ $,default
-Mochica-34-1,,Mochica,34,čaɳköd,čaɳköd,č a ɳ k ö d,,Cerron,,,^ č a ɳ k ö d $,default
-Mochica-35-1,,Mochica,35,ček,ček,č e k,,Cerron,,,^ č e k $,default
-Mochica-36-1,,Mochica,36,čömpu,čömpu,č ö m p u,,Cerron,,,^ č ö m p u $,default
-Mochica-37-1,,Mochica,37,či,či,č i,,Cerron,,,^ č i $,default
-Mochica-38-1,,Mochica,38,čiču,čiču,č i č u,,Cerron,,,^ č i č u $,default
-Mochica-39-1,,Mochica,39,čin,čin,č i n,,Cerron,,,^ č i n $,default
-Mochica-40-1,,Mochica,40,čiin,čiin,č ii n,,Cerron,,,^ č ii n $,default
-Mochica-41-1,,Mochica,41,čuköŝ,čuköŝ,č u k ö ŝ,,Cerron,,,^ č u k ö ŝ $,default
+Mochica-16-1,,Mochica,16,tyantik,tyantik,tɕ a n t i k,,Cerron,,,^ ty a n t i k $,default
+Mochica-17-1,,Mochica,17,tyaɳ,tyaɳ,tɕ a ɳ,,Cerron,,,^ ty a ɳ $,default
+Mochica-18-1,,Mochica,18,tyap,tyap,tɕ a p,,Cerron,,,^ ty a p $,default
+Mochica-19-1,,Mochica,19,tyety,tyety,tɕ e tɕ,,Cerron,,,^ ty e ty $,default
+Mochica-20-1,,Mochica,20,tyelfe,tyelfe,tɕ e l f e,,Cerron,,,^ ty e l f e $,default
+Mochica-21-1,,Mochica,21,tyelu:,tyelu:,tɕ e l uː,,Cerron,,,^ ty e l u: $,default
+Mochica-22-1,,Mochica,22,tyepuk,tyepuk,tɕ e p u k,,Cerron,,,^ ty e p u k $,default
+Mochica-23-1,,Mochica,23,työföt,työföt,tɕ ø f ø t,,Cerron,,,^ ty ö f ö t $,default
+Mochica-24-1,,Mochica,24,työtöŝ,työtöŝ,tɕ ø t ø ʂ,,Cerron,,,^ ty ö t ö ŝ $,default
+Mochica-25-1,,Mochica,25,työtymöd,työtymöd,tɕ ø tɕ m ø d,,Cerron,,,^ ty ö ty m ö d $,default
+Mochica-26-1,,Mochica,26,tyiktuk,tyiktuk,tɕ i k t u k,,Cerron,,,^ ty i k t u k $,default
+Mochica-27-1,,Mochica,27,tyilpi,tyilpi,tɕ i l p i,,Cerron,,,^ ty i l p i $,default
+Mochica-28-1,,Mochica,28,Tyimor,Tyimor,tɕ i m o ɾ,,Cerron,,,^ Ty i m o r $,default
+Mochica-29-1,,Mochica,29,tyolu,tyolu,tɕ o l u,,Cerron,,,^ ty o l u $,default
+Mochica-30-1,,Mochica,30,tyuŝku,tyuŝku,tɕ u ʂ k u,,Cerron,,,^ ty u ŝ k u $,default
+Mochica-31-1,,Mochica,31,tyutu,tyutu,tɕ u t u,,Cerron,,,^ ty u t u $,default
+Mochica-32-1,,Mochica,32,čaɳ,čaɳ,tʃ a ɳ,,Cerron,,,^ č a ɳ $,default
+Mochica-33-1,,Mochica,33,čaɳil̃,čaɳil̃,tʃ a ɳ i ʎ,,Cerron,,,^ č a ɳ i l̃ $,default
+Mochica-34-1,,Mochica,34,čaɳköd,čaɳköd,tʃ a ɳ k ø d,,Cerron,,,^ č a ɳ k ö d $,default
+Mochica-35-1,,Mochica,35,ček,ček,tʃ e k,,Cerron,,,^ č e k $,default
+Mochica-36-1,,Mochica,36,čömpu,čömpu,tʃ ø m p u,,Cerron,,,^ č ö m p u $,default
+Mochica-37-1,,Mochica,37,či,či,tʃ i,,Cerron,,,^ č i $,default
+Mochica-38-1,,Mochica,38,čiču,čiču,tʃ i tʃ u,,Cerron,,,^ č i č u $,default
+Mochica-39-1,,Mochica,39,čin,čin,tʃ i n,,Cerron,,,^ č i n $,default
+Mochica-40-1,,Mochica,40,čiin,čiin,tʃ i: n,,Cerron,,,^ č ii n $,default
+Mochica-41-1,,Mochica,41,čuköŝ,čuköŝ,tʃ u k ø ʂ,,Cerron,,,^ č u k ö ŝ $,default
 Mochica-42-1,,Mochica,42,ed,ed,e d,,Cerron,,,^ e d $,default
 Mochica-43-1,,Mochica,43,eis,eis,e i s,,Cerron,,,^ e i s $,default
 Mochica-44-1,,Mochica,44,ef,ef,e f,,Cerron,,,^ e f $,default
 Mochica-45-1,,Mochica,45,eiñ,eiñ,e i ɲ,,Cerron,,,^ e i ñ $,default
-Mochica-46-1,,Mochica,46,eçl̃möts,eçl̃möts,e ç l̃ m ö ts,,Cerron,,,^ e ç l̃ m ö ts $,default
-Mochica-47-1,,Mochica,47,eyöp,eyöp,e y ö p,,Cerron,,,^ e y ö p $,default
-Mochica-48-1,,Mochica,48,öfšiaŝ,öfšiaŝ,ö f š i a ŝ,,Cerron,,,^ ö f š i a ŝ $,default
-Mochica-49-1,,Mochica,49,öçl̃aɳ,öçl̃aɳ,ö ç l̃ a ɳ,,Cerron,,,^ ö ç l̃ a ɳ $,default
-Mochica-50-1,,Mochica,50,öp,öp,ö p,,Cerron,,,^ ö p $,default
-Mochica-51-1,,Mochica,51,ör,ör,ö r,,Cerron,,,^ ö r $,default
-Mochica-88-1,,Mochica,88,örkik,örkik,ö r k i k,,Cerron,,,^ ö r k i k $,default
-Mochica-53-1,,Mochica,53,faktya,faktya,f a k t y a,,Cerron,,,^ f a k t y a $,default
-Mochica-54-1,,Mochica,54,fačka,fačka,f a č k a,,Cerron,,,^ f a č k a $,default
-Mochica-55-1,,Mochica,55,fakatök,fakatök,f a k a t ö k,,Cerron,,,^ f a k a t ö k $,default
+Mochica-46-1,,Mochica,46,eçl̃möts,eçl̃möts,e ɬ m ø ts,,Cerron,,,^ e çl̃ m ö ts $,default
+Mochica-47-1,,Mochica,47,eyöp,eyöp,e j ø p,,Cerron,,,^ e y ö p $,default
+Mochica-48-1,,Mochica,48,öfšiaŝ,öfšiaŝ,ø f ç i a ʂ,,Cerron,,,^ ö f š i a ŝ $,default
+Mochica-49-1,,Mochica,49,öçl̃aɳ,öçl̃aɳ,ø ɬ a ɳ,,Cerron,,,^ ö çl̃ a ɳ $,default
+Mochica-50-1,,Mochica,50,öp,öp,ø p,,Cerron,,,^ ö p $,default
+Mochica-51-1,,Mochica,51,ör,ör,ø ɾ,,Cerron,,,^ ö r $,default
+Mochica-52-1,,Mochica,52,örkik,örkik,ø ɾ k i k,,Cerron,,,^ ö r k i k $,default
+Mochica-53-1,,Mochica,53,faktya,faktya,f a k tɕ a,,Cerron,,,^ f a k ty a $,default
+Mochica-54-1,,Mochica,54,fačka,fačka,f a tʃ k a,,Cerron,,,^ f a č k a $,default
+Mochica-55-1,,Mochica,55,fakatök,fakatök,f a k a t ø k,,Cerron,,,^ f a k a t ö k $,default
 Mochica-56-1,,Mochica,56,fanu:,fanu:,f a n uː,,Cerron,,,^ f a n u: $,default
-Mochica-57-1,,Mochica,57,far,far,f a r,,Cerron,,,^ f a r $,default
-Mochica-58-1,,Mochica,58,fel̃u,fel̃u,f e l̃ u,,Cerron,,,^ f e l̃ u $,default
+Mochica-57-1,,Mochica,57,far,far,f a ɾ,,Cerron,,,^ f a r $,default
+Mochica-58-1,,Mochica,58,fel̃u,fel̃u,f e ʎ u,,Cerron,,,^ f e l̃ u $,default
 Mochica-59-1,,Mochica,59,feneɳ,feneɳ,f e n e ɳ,,Cerron,,,^ f e n e ɳ $,default
-Mochica-60-1,,Mochica,60,föp,föp,f ö p,,Cerron,,,^ f ö p $,default
-Mochica-61-1,,Mochica,61,föpisök,föpisök,f ö p i s ö k,,Cerron,,,^ f ö p i s ö k $,default
-Mochica-62-1,,Mochica,62,föŝ,föŝ,f ö ŝ,,Cerron,,,^ f ö ŝ $,default
-Mochica-63-1,,Mochica,63,fičil̃ko,fičil̃ko,f i č i l̃ k o,,Cerron,,,^ f i č i l̃ k o $,default
-Mochica-64-1,,Mochica,64,fiçl̃ka,fiçl̃ka,f i ç l̃ k a,,Cerron,,,^ f i ç l̃ k a $,default
-Mochica-65-1,,Mochica,65,fokaltök,fokaltök,f o k a l t ö k,,Cerron,,,^ f o k a l t ö k $,default
-Mochica-66-1,,Mochica,66,içl̃,içl̃,i ç l̃,,Cerron,,,^ i ç l̃ $,default
+Mochica-60-1,,Mochica,60,föp,föp,f ø p,,Cerron,,,^ f ö p $,default
+Mochica-61-1,,Mochica,61,föpisök,föpisök,f ø p i s ø k,,Cerron,,,^ f ö p i s ö k $,default
+Mochica-62-1,,Mochica,62,föŝ,föŝ,f ø ʂ,,Cerron,,,^ f ö ŝ $,default
+Mochica-63-1,,Mochica,63,fičil̃ko,fičil̃ko,f i tʃ i ʎ k o,,Cerron,,,^ f i č i l̃ k o $,default
+Mochica-64-1,,Mochica,64,fiçl̃ka,fiçl̃ka,f i ɬ k a,,Cerron,,,^ f i çl̃ k a $,default
+Mochica-65-1,,Mochica,65,fokaltök,fokaltök,f o k a l t ø k,,Cerron,,,^ f o k a l t ö k $,default
+Mochica-66-1,,Mochica,66,içl̃,içl̃,i ɬ,,Cerron,,,^ i çl̃ $,default
 Mochica-67-1,,Mochica,67,ineɳ,ineɳ,i n e ɳ,,Cerron,,,^ i n e ɳ $,default
 Mochica-68-1,,Mochica,68,iñikuk,iñikuk,i ɲ i k u k,,Cerron,,,^ i ñ i k u k $,default
-Mochica-69-1,,Mochica,69,ir̃öm,ir̃öm,i r̃ ö m,,Cerron,,,^ i r̃ ö m $,default
+Mochica-69-1,,Mochica,69,ir̃öm,ir̃öm,i r ø m,,Cerron,,,^ i r̃ ö m $,default
 Mochica-70-1,,Mochica,70,isek,isek,i s e k,,Cerron,,,^ i s e k $,default
-Mochica-71-1,,Mochica,71,çl̃afko,çl̃afko,ç l̃ a f k o,,Cerron,,,^ ç l̃ a f k o $,default
-Mochica-72-1,,Mochica,72,çl̃ak,çl̃ak,ç l̃ a k,,Cerron,,,^ ç l̃ a k $,default
-Mochica-73-1,,Mochica,73,çl̃açl̃,çl̃açl̃,ç l̃ a ç l̃,,Cerron,,,^ ç l̃ a ç l̃ $,default
-Mochica-74-1,,Mochica,74,çl̃amu,çl̃amu,ç l̃ a m u,,Cerron,,,^ ç l̃ a m u $,default
-Mochica-75-1,,Mochica,75,çl̃aɳ,çl̃aɳ,ç l̃ a ɳ,,Cerron,,,^ ç l̃ a ɳ $,default
-Mochica-76-1,,Mochica,76,çl̃ekna,çl̃ekna,ç l̃ e k n a,,Cerron,,,^ ç l̃ e k n a $,default
-Mochica-77-1,,Mochica,77,çl̃ipko,çl̃ipko,ç l̃ i p k o,,Cerron,,,^ ç l̃ i p k o $,default
-Mochica-78-1,,Mochica,78,çl̃on,çl̃on,ç l̃ o n,,Cerron,,,^ ç l̃ o n $,default
-Mochica-79-1,,Mochica,79,çl̃oɳkik,çl̃oɳkik,ç l̃ o ɳ k i k,,Cerron,,,^ ç l̃ o ɳ k i k $,default
-Mochica-80-1,,Mochica,80,çl̃ontör,çl̃ontör,ç l̃ o n t ö r,,Cerron,,,^ ç l̃ o n t ö r $,default
-Mochica-81-1,,Mochica,81,çl̃uɳ,çl̃uɳ,ç l̃ u ɳ,,Cerron,,,^ ç l̃ u ɳ $,default
-Mochica-82-1,,Mochica,82,kafsok,kafsok,k a fs o k,,Cerron,,,^ k a fs o k $,default
-Mochica-83-1,,Mochica,83,kaiškopök,kaiškopök,k a i š k o p ö k,,Cerron,,,^ k a i š k o p ö k $,default
-Mochica-84-1,,Mochica,84,kaçl̃,kaçl̃,k a ç l̃,,Cerron,,,^ k a ç l̃ $,default
-Mochica-85-1,,Mochica,85,kaɳtyu,kaɳtyu,k a ɳ t y u,,Cerron,,,^ k a ɳ t y u $,default
-Mochica-86-1,,Mochica,86,katön,katön,k a t ö n,,Cerron,,,^ k a t ö n $,default
-Mochica-87-1,,Mochica,87,köför,köför,k ö f ö r,,Cerron,,,^ k ö f ö r $,default
-Mochica-88-2,,Mochica,88,kæntyo,kæntyo,k æ n t y o,,Cerron,,,^ k æ n t y o $,default
-Mochica-89-1,,Mochica,89,kösmeɳ,kösmeɳ,k ös m e ɳ,,Cerron,,,^ k ös m e ɳ $,default
-Mochica-90-1,,Mochica,90,kičku,kičku,k i č k u,,Cerron,,,^ k i č k u $,default
-Mochica-91-1,,Mochica,91,kišmik,kišmik,k i š m i k,,Cerron,,,^ k i š m i k $,default
-Mochica-92-1,,Mochica,92,koköd,koköd,k o k ö d,,Cerron,,,^ k o k ö d $,default
+Mochica-71-1,,Mochica,71,çl̃afko,çl̃afko,ɬ a f k o,,Cerron,,,^ çl̃ a f k o $,default
+Mochica-72-1,,Mochica,72,çl̃ak,çl̃ak,ɬ a k,,Cerron,,,^ çl̃ a k $,default
+Mochica-73-1,,Mochica,73,çl̃açl̃,çl̃açl̃,ɬ a ɬ,,Cerron,,,^ çl̃ a çl̃ $,default
+Mochica-74-1,,Mochica,74,çl̃amu,çl̃amu,ɬ a m u,,Cerron,,,^ çl̃ a m u $,default
+Mochica-75-1,,Mochica,75,çl̃aɳ,çl̃aɳ,ɬ a ɳ,,Cerron,,,^ çl̃ a ɳ $,default
+Mochica-76-1,,Mochica,76,çl̃ekna,çl̃ekna,ɬ e k n a,,Cerron,,,^ çl̃ e k n a $,default
+Mochica-77-1,,Mochica,77,çl̃ipko,çl̃ipko,ɬ i p k o,,Cerron,,,^ çl̃ i p k o $,default
+Mochica-78-1,,Mochica,78,çl̃on,çl̃on,ɬ o n,,Cerron,,,^ çl̃ o n $,default
+Mochica-79-1,,Mochica,79,çl̃oɳkik,çl̃oɳkik,ɬ o ɳ k i k,,Cerron,,,^ çl̃ o ɳ k i k $,default
+Mochica-80-1,,Mochica,80,çl̃ontör,çl̃ontör,ɬ o n t ø ɾ,,Cerron,,,^ çl̃ o n t ö r $,default
+Mochica-81-1,,Mochica,81,çl̃uɳ,çl̃uɳ,ɬ u ɳ,,Cerron,,,^ çl̃ u ɳ $,default
+Mochica-82-1,,Mochica,82,kafsok,kafsok,k a f s o k,,Cerron,,,^ k a f s o k $,default
+Mochica-83-1,,Mochica,83,kaiškopök,kaiškopök,k a i ç k o p ø k,,Cerron,,,^ k a i š k o p ö k $,default
+Mochica-84-1,,Mochica,84,kaçl̃,kaçl̃,k a ɬ,,Cerron,,,^ k a çl̃ $,default
+Mochica-85-1,,Mochica,85,kaɳtyu,kaɳtyu,k a ɳ tɕ u,,Cerron,,,^ k a ɳ ty u $,default
+Mochica-86-1,,Mochica,86,katön,katön,k a t ø n,,Cerron,,,^ k a t ö n $,default
+Mochica-87-1,,Mochica,87,köför,köför,k ø f ø ɾ,,Cerron,,,^ k ö f ö r $,default
+Mochica-52-2,,Mochica,52,kæntyo,kæntyo,k œ n tɕ o,,Cerron,,,^ k æ n ty o $,default
+Mochica-89-1,,Mochica,89,kösmeɳ,kösmeɳ,k ø s m e ɳ,,Cerron,,,^ k ö s m e ɳ $,default
+Mochica-90-1,,Mochica,90,kičku,kičku,k i tʃ k u,,Cerron,,,^ k i č k u $,default
+Mochica-91-1,,Mochica,91,kišmik,kišmik,k i ç m i k,,Cerron,,,^ k i š m i k $,default
+Mochica-92-1,,Mochica,92,koköd,koköd,k o k ø d,,Cerron,,,^ k o k ö d $,default
 Mochica-93-1,,Mochica,93,kol,kol,k o l,,Cerron,,,^ k o l $,default
-Mochica-94-1,,Mochica,94,komön,komön,k o m ö n,,Cerron,,,^ k o m ö n $,default
+Mochica-94-1,,Mochica,94,komön,komön,k o m ø n,,Cerron,,,^ k o m ö n $,default
 Mochica-95-1,,Mochica,95,kul,kul,k u l,,Cerron,,,^ k u l $,default
 Mochica-96-1,,Mochica,96,kuntsin,kuntsin,k u n ts i n,,Cerron,,,^ k u n ts i n $,default
-Mochica-97-1,,Mochica,97,kusya,kusya,k u s y a,,Cerron,,,^ k u s y a $,default
+Mochica-97-1,,Mochica,97,kusya,kusya,k u s j a,,Cerron,,,^ k u s y a $,default
 Mochica-98-1,,Mochica,98,la:,la:,l aː,,Cerron,,,^ l a: $,default
 Mochica-99-1,,Mochica,99,laftik,laftik,l a f t i k,,Cerron,,,^ l a f t i k $,default
 Mochica-100-1,,Mochica,100,laktu,laktu,l a k t u,,Cerron,,,^ l a k t u $,default
 Mochica-101-1,,Mochica,101,lanka,lanka,l a n k a,,Cerron,,,^ l a n k a $,default
-Mochica-102-1,,Mochica,102,laɳöŝ,laɳöŝ,l a ɳ ö ŝ,,Cerron,,,^ l a ɳ ö ŝ $,default
-Mochica-103-1,,Mochica,103,lar̃o,lar̃o,l a r̃ o,,Cerron,,,^ l a r̃ o $,default
-Mochica-104-1,,Mochica,104,lety,lety,l e t y,,Cerron,,,^ l e t y $,default
+Mochica-102-1,,Mochica,102,laɳöŝ,laɳöŝ,l a ɳ ø ʂ,,Cerron,,,^ l a ɳ ö ŝ $,default
+Mochica-103-1,,Mochica,103,lar̃o,lar̃o,l a r o,,Cerron,,,^ l a r̃ o $,default
+Mochica-104-1,,Mochica,104,lety,lety,l e tɕ,,Cerron,,,^ l e ty $,default
 Mochica-105-1,,Mochica,105,led,led,l e d,,Cerron,,,^ l e d $,default
 Mochica-106-1,,Mochica,106,len,len,l e n,,Cerron,,,^ l e n $,default
-Mochica-107-1,,Mochica,107,löm,löm,l ö m,,Cerron,,,^ l ö m $,default
-Mochica-108-1,,Mochica,108,lömisör,lömisör,l ö m i s ö r,,Cerron,,,^ l ö m i s ö r $,default
-Mochica-109-1,,Mochica,109,l̃aftus,l̃aftus,l̃ a f t u s,,Cerron,,,^ l̃ a f t u s $,default
-Mochica-110-1,,Mochica,110,l̃amu,l̃amu,l̃ a m u,,Cerron,,,^ l̃ a m u $,default
-Mochica-111-1,,Mochica,111,l̃apti,l̃apti,l̃ a p t i,,Cerron,,,^ l̃ a p t i $,default
-Mochica-112-1,,Mochica,112,l̃emño,l̃emño,l̃ e m ɲ o,,Cerron,,,^ l̃ e m ñ o $,default
-Mochica-113-1,,Mochica,113,l̃öröm,l̃öröm,l̃ ö r ö m,,Cerron,,,^ l̃ ö r ö m $,default
-Mochica-114-1,,Mochica,114,l̃iköm,l̃iköm,l̃ i k ö m,,Cerron,,,^ l̃ i k ö m $,default
-Mochica-115-1,,Mochica,115,matyök,matyök,m a t y ö k,,Cerron,,,^ m a t y ö k $,default
-Mochica-116-1,,Mochica,116,mečerök,mečerök,m e č e r ö k,,Cerron,,,^ m e č e r ö k $,default
+Mochica-107-1,,Mochica,107,löm,löm,l ø m,,Cerron,,,^ l ö m $,default
+Mochica-108-1,,Mochica,108,lömisör,lömisör,l ø m i s ø ɾ,,Cerron,,,^ l ö m i s ö r $,default
+Mochica-109-1,,Mochica,109,l̃aftus,l̃aftus,ʎ a f t u s,,Cerron,,,^ l̃ a f t u s $,default
+Mochica-110-1,,Mochica,110,l̃amu,l̃amu,ʎ a m u,,Cerron,,,^ l̃ a m u $,default
+Mochica-111-1,,Mochica,111,l̃apti,l̃apti,ʎ a p t i,,Cerron,,,^ l̃ a p t i $,default
+Mochica-112-1,,Mochica,112,l̃emño,l̃emño,ʎ e m ɲ o,,Cerron,,,^ l̃ e m ñ o $,default
+Mochica-113-1,,Mochica,113,l̃öröm,l̃öröm,ʎ ø ɾ ø m,,Cerron,,,^ l̃ ö r ö m $,default
+Mochica-114-1,,Mochica,114,l̃iköm,l̃iköm,ʎ i k ø m,,Cerron,,,^ l̃ i k ö m $,default
+Mochica-115-1,,Mochica,115,matyök,matyök,m a tɕ ø k,,Cerron,,,^ m a ty ö k $,default
+Mochica-116-1,,Mochica,116,mečerök,mečerök,m e tʃ e ɾ ø k,,Cerron,,,^ m e č e r ö k $,default
 Mochica-117-1,,Mochica,117,meklik,meklik,m e k l i k,,Cerron,,,^ m e k l i k $,default
 Mochica-118-1,,Mochica,118,met,met,m e t,,Cerron,,,^ m e t $,default
-Mochica-119-1,,Mochica,119,mötya,mötya,m ö t y a,,Cerron,,,^ m ö t y a $,default
-Mochica-120-1,,Mochica,120,möča,möča,m ö č a,,Cerron,,,^ m ö č a $,default
-Mochica-121-1,,Mochica,121,moič,moič,m o i č,,Cerron,,,^ m o i č $,default
-Mochica-122-1,,Mochica,122,möl̃ök,möl̃ök,m ö l̃ ö k,,Cerron,,,^ m ö l̃ ö k $,default
-Mochica-123-1,,Mochica,123,midi ~ misi,midi ~ misi,m i d i + <<~>> + m i s i,,Cerron,,,^ m i d i + <~> + m i s i $,default
-Mochica-124-1,,Mochica,124,motsön,motsön,m o ts ö n,,Cerron,,,^ m o ts ö n $,default
-Mochica-125-1,,Mochica,125,moiš,moiš,m o i š,,Cerron,,,^ m o i š $,default
-Mochica-126-1,,Mochica,126,mul̃u,mul̃u,m u l̃ u,,Cerron,,,^ m u l̃ u $,default
+Mochica-119-1,,Mochica,119,mötya,mötya,m ø tɕ a,,Cerron,,,^ m ö ty a $,default
+Mochica-120-1,,Mochica,120,möča,möča,m ø tʃ a,,Cerron,,,^ m ö č a $,default
+Mochica-121-1,,Mochica,121,moič,moič,m o i tʃ,,Cerron,,,^ m o i č $,default
+Mochica-122-1,,Mochica,122,möl̃ök,möl̃ök,m ø ʎ ø k,,Cerron,,,^ m ö l̃ ö k $,default
+Mochica-123-1,,Mochica,123,midi ~ misi,midi,m i d i,,Cerron,,,^ m i d i $,default
+Mochica-123-2,,Mochica,123,midi ~ misi,misi,m i s i,,Cerron,,,^ m i s i $,default
+Mochica-124-1,,Mochica,124,motsön,motsön,m o ts ø n,,Cerron,,,^ m o ts ö n $,default
+Mochica-125-1,,Mochica,125,moiš,moiš,m o i ç,,Cerron,,,^ m o i š $,default
+Mochica-126-1,,Mochica,126,mul̃u,mul̃u,m u ʎ u,,Cerron,,,^ m u l̃ u $,default
 Mochica-127-1,,Mochica,127,neisna,neisna,n e i s n a,,Cerron,,,^ n e i s n a $,default
-Mochica-128-1,,Mochica,128,neçl̃ok,neçl̃ok,n e ç l̃ o k,,Cerron,,,^ n e ç l̃ o k $,default
+Mochica-128-1,,Mochica,128,neçl̃ok,neçl̃ok,n e ɬ o k,,Cerron,,,^ n e çl̃ o k $,default
 Mochica-129-1,,Mochica,129,nenoɳ,nenoɳ,n e n o ɳ,,Cerron,,,^ n e n o ɳ $,default
-Mochica-130-1,,Mochica,130,nokŝi,nokŝi,n o k ŝ i,,Cerron,,,^ n o k ŝ i $,default
-Mochica-131-1,,Mochica,131,napöŝ,napöŝ,n a p ö ŝ,,Cerron,,,^ n a p ö ŝ $,default
-Mochica-143-1,,Mochica,143,notön,notön,n o t ö n,,Cerron,,,^ n o t ö n $,default
+Mochica-130-1,,Mochica,130,nokŝi,nokŝi,n o k ʂ i,,Cerron,,,^ n o k ŝ i $,default
+Mochica-131-1,,Mochica,131,napöŝ,napöŝ,n a p ø ʂ,,Cerron,,,^ n a p ö ŝ $,default
+Mochica-132-1,,Mochica,132,notön,notön,n o t ø n,,Cerron,,,^ n o t ö n $,default
 Mochica-133-1,,Mochica,133,notnik,notnik,n o t n i k,,Cerron,,,^ n o t n i k $,default
-Mochica-134-1,,Mochica,134,noŝön,noŝön,n o ŝ ö n,,Cerron,,,^ n o ŝ ö n $,default
+Mochica-134-1,,Mochica,134,noŝön,noŝön,n o ʂ ø n,,Cerron,,,^ n o ŝ ö n $,default
 Mochica-135-1,,Mochica,135,ñaiñ,ñaiñ,ɲ a i ɲ,,Cerron,,,^ ñ a i ñ $,default
 Mochica-136-1,,Mochica,136,ñaɳ,ñaɳ,ɲ a ɳ,,Cerron,,,^ ñ a ɳ $,default
-Mochica-137-1,,Mochica,137,ñiteyo,ñiteyo,ɲ i t e y o,,Cerron,,,^ ñ i t e y o $,default
-Mochica-138-1,,Mochica,138,ñitir,ñitir,ɲ i t i r,,Cerron,,,^ ñ i t i r $,default
+Mochica-137-1,,Mochica,137,ñiteyo,ñiteyo,ɲ i t e j o,,Cerron,,,^ ñ i t e y o $,default
+Mochica-138-1,,Mochica,138,ñitir,ñitir,ɲ i t i ɾ,,Cerron,,,^ ñ i t i r $,default
 Mochica-139-1,,Mochica,139,ñiptik,ñiptik,ɲ i p t i k,,Cerron,,,^ ñ i p t i k $,default
 Mochica-140-1,,Mochica,140,ñitu,ñitu,ɲ i t u,,Cerron,,,^ ñ i t u $,default
-Mochica-141-1,,Mochica,141,ñofön,ñofön,ɲ o f ö n,,Cerron,,,^ ñ o f ö n $,default
-Mochica-142-1,,Mochica,142,ñoŝön,ñoŝön,ɲ o ŝ ö n,,Cerron,,,^ ñ o ŝ ö n $,default
-Mochica-143-2,,Mochica,143,ñotön,ñotön,ɲ o t ö n,,Cerron,,,^ ñ o t ö n $,default
-Mochica-144-1,,Mochica,144,oçl̃,oçl̃,o ç l̃,,Cerron,,,^ o ç l̃ $,default
-Mochica-145-1,,Mochica,145,okön,okön,o k ö n,,Cerron,,,^ o k ö n $,default
-Mochica-146-1,,Mochica,146,omor,omor,o m o r,,Cerron,,,^ o m o r $,default
+Mochica-141-1,,Mochica,141,ñofön,ñofön,ɲ o f ø n,,Cerron,,,^ ñ o f ö n $,default
+Mochica-142-1,,Mochica,142,ñoŝön,ñoŝön,ɲ o ʂ ø n,,Cerron,,,^ ñ o ŝ ö n $,default
+Mochica-132-2,,Mochica,132,ñotön,ñotön,ɲ o t ø n,,Cerron,,,^ ñ o t ö n $,default
+Mochica-144-1,,Mochica,144,oçl̃,oçl̃,o ɬ,,Cerron,,,^ o çl̃ $,default
+Mochica-145-1,,Mochica,145,okön,okön,o k ø n,,Cerron,,,^ o k ö n $,default
+Mochica-146-1,,Mochica,146,omor,omor,o m o ɾ,,Cerron,,,^ o m o r $,default
 Mochica-147-1,,Mochica,147,opaisti,opaisti,o p a i s t i,,Cerron,,,^ o p a i s t i $,default
-Mochica-148-1,,Mochica,148,paröɳ,paröɳ,p a r ö ɳ,,Cerron,,,^ p a r ö ɳ $,default
+Mochica-148-1,,Mochica,148,paröɳ,paröɳ,p a ɾ ø ɳ,,Cerron,,,^ p a r ö ɳ $,default
 Mochica-149-1,,Mochica,149,peño,peño,p e ɲ o,,Cerron,,,^ p e ñ o $,default
-Mochica-150-1,,Mochica,150,pey,pey,p e y,,Cerron,,,^ p e y $,default
-Mochica-151-1,,Mochica,151,pitör,pitör,p i t ö r,,Cerron,,,^ p i t ö r $,default
+Mochica-150-1,,Mochica,150,pey,pey,p e j,,Cerron,,,^ p e y $,default
+Mochica-151-1,,Mochica,151,pitör,pitör,p i t ø ɾ,,Cerron,,,^ p i t ö r $,default
 Mochica-152-1,,Mochica,152,pilala,pilala,p i l a l a,,Cerron,,,^ p i l a l a $,default
-Mochica-153-1,,Mochica,153,piyk,piyk,p i y k,,Cerron,,,^ p i y k $,default
-Mochica-154-1,,Mochica,154,počök,počök,p o č ö k,,Cerron,,,^ p o č ö k $,default
+Mochica-153-1,,Mochica,153,piyk,piyk,p i j k,,Cerron,,,^ p i y k $,default
+Mochica-154-1,,Mochica,154,počök,počök,p o tʃ ø k,,Cerron,,,^ p o č ö k $,default
 Mochica-155-1,,Mochica,155,pokpok,pokpok,p o k p o k,,Cerron,,,^ p o k p o k $,default
 Mochica-156-1,,Mochica,156,pol,pol,p o l,,Cerron,,,^ p o l $,default
 Mochica-157-1,,Mochica,157,pon,pon,p o n,,Cerron,,,^ p o n $,default
 Mochica-158-1,,Mochica,158,poɳ,poɳ,p o ɳ,,Cerron,,,^ p o ɳ $,default
-Mochica-159-1,,Mochica,159,popŝi,popŝi,p o p ŝ i,,Cerron,,,^ p o p ŝ i $,default
-Mochica-160-1,,Mochica,160,por̃a,por̃a,p o r̃ a,,Cerron,,,^ p o r̃ a $,default
-Mochica-161-1,,Mochica,161,potoŝ,potoŝ,p o t o ŝ,,Cerron,,,^ p o t o ŝ $,default
+Mochica-159-1,,Mochica,159,popŝi,popŝi,p o p ʂ i,,Cerron,,,^ p o p ŝ i $,default
+Mochica-160-1,,Mochica,160,por̃a,por̃a,p o r a,,Cerron,,,^ p o r̃ a $,default
+Mochica-161-1,,Mochica,161,potoŝ,potoŝ,p o t o ʂ,,Cerron,,,^ p o t o ŝ $,default
 Mochica-162-1,,Mochica,162,pufpuf,pufpuf,p u f p u f,,Cerron,,,^ p u f p u f $,default
 Mochica-163-1,,Mochica,163,puku,puku,p u k u,,Cerron,,,^ p u k u $,default
 Mochica-164-1,,Mochica,164,pup,pup,p u p,,Cerron,,,^ p u p $,default
-Mochica-165-1,,Mochica,165,puy,puy,p u y,,Cerron,,,^ p u y $,default
-Mochica-166-1,,Mochica,166,rak,rak,r a k,,Cerron,,,^ r a k $,default
-Mochica-167-1,,Mochica,167,remik,remik,r e m i k,,Cerron,,,^ r e m i k $,default
-Mochica-168-1,,Mochica,168,reɳ,reɳ,r e ɳ,,Cerron,,,^ r e ɳ $,default
-Mochica-169-1,,Mochica,169,ronömsök,ronömsök,r o n ö ms ö k,,Cerron,,,^ r o n ö ms ö k $,default
+Mochica-165-1,,Mochica,165,puy,puy,p u j,,Cerron,,,^ p u y $,default
+Mochica-166-1,,Mochica,166,rak,rak,ɾ a k,,Cerron,,,^ r a k $,default
+Mochica-167-1,,Mochica,167,remik,remik,ɾ e m i k,,Cerron,,,^ r e m i k $,default
+Mochica-168-1,,Mochica,168,reɳ,reɳ,ɾ e ɳ,,Cerron,,,^ r e ɳ $,default
+Mochica-169-1,,Mochica,169,ronömsök,ronömsök,ɾ o n ø m s ø k,,Cerron,,,^ r o n ö m s ö k $,default
 Mochica-170-1,,Mochica,170,sak,sak,s a k,,Cerron,,,^ s a k $,default
 Mochica-171-1,,Mochica,171,seɳke,seɳke,s e ɳ k e,,Cerron,,,^ s e ɳ k e $,default
-Mochica-172-1,,Mochica,172,sök,sök,s ö k,,Cerron,,,^ s ö k $,default
-Mochica-173-1,,Mochica,173,sörki,sörki,s ö r k i,,Cerron,,,^ s ö r k i $,default
+Mochica-172-1,,Mochica,172,sök,sök,s ø k,,Cerron,,,^ s ö k $,default
+Mochica-173-1,,Mochica,173,sörki,sörki,s ø ɾ k i,,Cerron,,,^ s ö r k i $,default
 Mochica-174-1,,Mochica,174,sialu,sialu,s i a l u,,Cerron,,,^ s i a l u $,default
 Mochica-175-1,,Mochica,175,siek,siek,s i e k,,Cerron,,,^ s i e k $,default
-Mochica-176-1,,Mochica,176,siöis,siöis,s i ö i s,,Cerron,,,^ s i ö i s $,default
-Mochica-177-1,,Mochica,177,siorna,siorna,s i o r n a,,Cerron,,,^ s i o r n a $,default
+Mochica-176-1,,Mochica,176,siöis,siöis,s i ø i s,,Cerron,,,^ s i ö i s $,default
+Mochica-177-1,,Mochica,177,siorna,siorna,s i o ɾ n a,,Cerron,,,^ s i o r n a $,default
 Mochica-178-2,,Mochica,178,siu,siu,s i u,,Cerron,,,^ s i u $,default
-Mochica-179-1,,Mochica,179,siukič,siukič,s i u k i č,,Cerron,,,^ s i u k i č $,default
-Mochica-180-1,,Mochica,180,siu:kič,siu:kič,s i uː k i č,,Cerron,,,^ s i u: k i č $,default
-Mochica-181-1,,Mochica,181,ŝap,ŝap,ŝ a p,,Cerron,,,^ ŝ a p $,default
-Mochica-182-1,,Mochica,182,ŝol,ŝol,ŝ o l,,Cerron,,,^ ŝ o l $,default
-Mochica-183-1,,Mochica,183,ŝekön,ŝekön,ŝ e k ö n,,Cerron,,,^ ŝ e k ö n $,default
-Mochica-184-1,,Mochica,184,ŝer,ŝer,ŝ e r,,Cerron,,,^ ŝ e r $,default
-Mochica-185-1,,Mochica,185,ŝod,ŝod,ŝ o d,,Cerron,,,^ ŝ o d $,default
-Mochica-186-1,,Mochica,186,ŝonön,ŝonön,ŝ o n ö n,,Cerron,,,^ ŝ o n ö n $,default
-Mochica-187-1,,Mochica,187,ŝonŝom,ŝonŝom,ŝ o n ŝ o m,,Cerron,,,^ ŝ o n ŝ o m $,default
-Mochica-188-1,,Mochica,188,ŝonto,ŝonto,ŝ o n t o,,Cerron,,,^ ŝ o n t o $,default
-Mochica-189-1,,Mochica,189,ŝöpör,ŝöpör,ŝ ö p ö r,,Cerron,,,^ ŝ ö p ö r $,default
-Mochica-190-1,,Mochica,190,šamik,šamik,š a m i k,,Cerron,,,^ š a m i k $,default
-Mochica-191-1,,Mochica,191,šemetok,šemetok,š e m e t o k,,Cerron,,,^ š e m e t o k $,default
-Mochica-192-1,,Mochica,192,ši,ši,š i,,Cerron,,,^ š i $,default
-Mochica-193-1,,Mochica,193,teŝ,teŝ,t e ŝ,,Cerron,,,^ t e ŝ $,default
-Mochica-194-1,,Mochica,194,tök,tök,t ö k,,Cerron,,,^ t ö k $,default
+Mochica-179-1,,Mochica,179,siukič,siukič,s i u k i tʃ,,Cerron,,,^ s i u k i č $,default
+Mochica-180-1,,Mochica,180,siu:kič,siu:kič,s i uː k i tʃ,,Cerron,,,^ s i u: k i č $,default
+Mochica-181-1,,Mochica,181,ŝap,ŝap,ʂ a p,,Cerron,,,^ ŝ a p $,default
+Mochica-182-1,,Mochica,182,ŝol,ŝol,ʂ o l,,Cerron,,,^ ŝ o l $,default
+Mochica-183-1,,Mochica,183,ŝekön,ŝekön,ʂ e k ø n,,Cerron,,,^ ŝ e k ö n $,default
+Mochica-184-1,,Mochica,184,ŝer,ŝer,ʂ e ɾ,,Cerron,,,^ ŝ e r $,default
+Mochica-185-1,,Mochica,185,ŝod,ŝod,ʂ o d,,Cerron,,,^ ŝ o d $,default
+Mochica-186-1,,Mochica,186,ŝonön,ŝonön,ʂ o n ø n,,Cerron,,,^ ŝ o n ö n $,default
+Mochica-187-1,,Mochica,187,ŝonŝom,ŝonŝom,ʂ o n ʂ o m,,Cerron,,,^ ŝ o n ŝ o m $,default
+Mochica-188-1,,Mochica,188,ŝonto,ŝonto,ʂ o n t o,,Cerron,,,^ ŝ o n t o $,default
+Mochica-189-1,,Mochica,189,ŝöpör,ŝöpör,ʂ ø p ø ɾ,,Cerron,,,^ ŝ ö p ö r $,default
+Mochica-190-1,,Mochica,190,šamik,šamik,ç a m i k,,Cerron,,,^ š a m i k $,default
+Mochica-191-1,,Mochica,191,šemetok,šemetok,ç e m e t o k,,Cerron,,,^ š e m e t o k $,default
+Mochica-192-1,,Mochica,192,ši,ši,ç i,,Cerron,,,^ š i $,default
+Mochica-193-1,,Mochica,193,teŝ,teŝ,t e ʂ,,Cerron,,,^ t e ŝ $,default
+Mochica-194-1,,Mochica,194,tök,tök,t ø k,,Cerron,,,^ t ö k $,default
 Mochica-195-1,,Mochica,195,tika:,tika:,t i k aː,,Cerron,,,^ t i k a: $,default
 Mochica-196-1,,Mochica,196,tonik,tonik,t o n i k,,Cerron,,,^ t o n i k $,default
 Mochica-197-1,,Mochica,197,tot,tot,t o t,,Cerron,,,^ t o t $,default
 Mochica-198-1,,Mochica,198,utso,utso,u ts o,,Cerron,,,^ u ts o $,default
-Mochica-199-1,,Mochica,199,uçl̃ur,uçl̃ur,u ç l̃ u r,,Cerron,,,^ u ç l̃ u r $,default
+Mochica-199-1,,Mochica,199,uçl̃ur,uçl̃ur,u ɬ u ɾ,,Cerron,,,^ u çl̃ u r $,default
 Mochica-200-1,,Mochica,200,uis,uis,u i s,,Cerron,,,^ u i s $,default
 Mochica-201-1,,Mochica,201,ukik,ukik,u k i k,,Cerron,,,^ u k i k $,default
 Mochica-202-1,,Mochica,202,ukpe,ukpe,u k p e,,Cerron,,,^ u k p e $,default
-Mochica-203-1,,Mochica,203,ur̃uiñ,ur̃uiñ,u r̃ u i ɲ,,Cerron,,,^ u r̃ u i ñ $,default
+Mochica-203-1,,Mochica,203,ur̃uiñ,ur̃uiñ,u r u i ɲ,,Cerron,,,^ u r̃ u i ñ $,default
 Mochica-204-1,,Mochica,204,utkam,utkam,u t k a m,,Cerron,,,^ u t k a m $,default
-Mochica-205-1,,Mochica,205,yaktum,yaktum,y a k t u m,,Cerron,,,^ y a k t u m $,default
-Mochica-206-1,,Mochica,206,yana:,yana:,y a n aː,,Cerron,,,^ y a n a: $,default
-Mochica-207-2,,Mochica,207,yaip,yaip,y a i p,,Cerron,,,^ y a i p $,default
+Mochica-205-1,,Mochica,205,yaktum,yaktum,j a k t u m,,Cerron,,,^ y a k t u m $,default
+Mochica-206-1,,Mochica,206,yana:,yana:,j a n aː,,Cerron,,,^ y a n a: $,default
+Mochica-207-2,,Mochica,207,yaip,yaip,j a i p,,Cerron,,,^ y a i p $,default

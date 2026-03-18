@@ -1,22 +1,9 @@
 {
     "by_language": {
         "Mochica": {
-            "bipa_errors": [
-                "\u00f6s",
-                "\u00f1s",
-                "<<~>>",
-                "ms",
-                "\u010d",
-                "<?>",
-                "fs",
-                "\u015d",
-                "\u0161"
-            ],
-            "general_errors": 58,
+            "bipa_errors": [],
+            "general_errors": 0,
             "replacements": {
-                "+": [
-                    "+"
-                ],
                 "a": [
                     "a"
                 ],
@@ -38,17 +25,17 @@
                 "i": [
                     "i"
                 ],
-                "ii": [
-                    "ii"
+                "i:": [
+                    "i\u02d0"
+                ],
+                "j": [
+                    "j"
                 ],
                 "k": [
                     "k"
                 ],
                 "l": [
                     "l"
-                ],
-                "l\u0303": [
-                    "l\u0303"
                 ],
                 "m": [
                     "m"
@@ -59,17 +46,11 @@
                 "o": [
                     "o"
                 ],
-                "o\u0308": [
-                    "o\u0308"
-                ],
                 "p": [
                     "p"
                 ],
                 "r": [
                     "r"
-                ],
-                "r\u0303": [
-                    "r\u0303"
                 ],
                 "s": [
                     "s"
@@ -80,478 +61,88 @@
                 "ts": [
                     "ts"
                 ],
+                "t\u0255": [
+                    "t\u0255"
+                ],
+                "t\u0283": [
+                    "t\u0283"
+                ],
                 "u": [
                     "u"
                 ],
                 "u\u02d0": [
                     "u\u02d0"
                 ],
-                "y": [
-                    "y"
+                "\u00f8": [
+                    "\u00f8"
                 ],
-                "\u00e6": [
-                    "\u00e6"
+                "\u0153": [
+                    "\u0153"
+                ],
+                "\u026c": [
+                    "\u026c"
                 ],
                 "\u0272": [
                     "\u0272"
                 ],
                 "\u0273": [
                     "\u0273"
+                ],
+                "\u027e": [
+                    "\u027e"
+                ],
+                "\u0282": [
+                    "\u0282"
+                ],
+                "\u028e": [
+                    "\u028e"
                 ]
             },
-            "sclass_errors": [
-                "\u00f6s",
-                "\u00f1s",
-                "<<~>>",
-                "ms",
-                "\u010d",
-                "<?>",
-                "fs",
-                "\u015d",
-                "\u0161"
-            ],
+            "sclass_errors": [],
             "segments": {
-                "+": 2,
-                "<<~>>": 1,
-                "<?>": 1,
                 "a": 74,
                 "a\u02d0": 3,
                 "d": 8,
                 "e": 47,
-                "f": 24,
-                "fs": 1,
+                "f": 25,
                 "i": 82,
-                "ii": 1,
+                "i:": 1,
+                "j": 12,
                 "k": 94,
                 "l": 27,
-                "l\u0303": 32,
-                "m": 36,
-                "ms": 1,
+                "m": 37,
                 "n": 46,
                 "o": 61,
                 "p": 42,
-                "r": 23,
-                "r\u0303": 4,
-                "s": 24,
-                "t": 59,
+                "r": 4,
+                "s": 28,
+                "t": 36,
                 "ts": 11,
+                "t\u0255": 24,
+                "t\u0283": 21,
                 "u": 45,
                 "u\u02d0": 3,
-                "y": 36,
-                "\u00e6": 1,
-                "\u00e7": 21,
-                "\u00f1s": 1,
-                "\u00f6": 70,
-                "\u00f6s": 1,
-                "\u010d": 21,
-                "\u015d": 24,
-                "\u0161": 7,
-                "\u0272": 15,
-                "\u0273": 20
+                "\u00e7": 7,
+                "\u00f8": 71,
+                "\u0153": 1,
+                "\u026c": 21,
+                "\u0272": 16,
+                "\u0273": 20,
+                "\u027e": 23,
+                "\u0282": 24,
+                "\u028e": 11
             }
         }
     },
     "stats": {
-        "bad_words": [
-            [
-                "Mochica-102-1",
-                "Mochica",
-                "102",
-                "la\u0273\u00f6\u015d",
-                "l a \u0273 \u00f6 <s> \u015d </s>"
-            ],
-            [
-                "Mochica-116-1",
-                "Mochica",
-                "116",
-                "me\u010der\u00f6k",
-                "m e <s> \u010d </s> e r \u00f6 k"
-            ],
-            [
-                "Mochica-12-1",
-                "Mochica",
-                "12",
-                "ts\u00f6i\u010d",
-                "ts \u00f6 i <s> \u010d </s>"
-            ],
-            [
-                "Mochica-120-1",
-                "Mochica",
-                "120",
-                "m\u00f6\u010da",
-                "m \u00f6 <s> \u010d </s> a"
-            ],
-            [
-                "Mochica-121-1",
-                "Mochica",
-                "121",
-                "moi\u010d",
-                "m o i <s> \u010d </s>"
-            ],
-            [
-                "Mochica-123-1",
-                "Mochica",
-                "123",
-                "midi ~ misi",
-                "m i d i + <s> <<~>> </s> + m i s i"
-            ],
-            [
-                "Mochica-125-1",
-                "Mochica",
-                "125",
-                "moi\u0161",
-                "m o i <s> \u0161 </s>"
-            ],
-            [
-                "Mochica-130-1",
-                "Mochica",
-                "130",
-                "nok\u015di",
-                "n o k <s> \u015d </s> i"
-            ],
-            [
-                "Mochica-131-1",
-                "Mochica",
-                "131",
-                "nap\u00f6\u015d",
-                "n a p \u00f6 <s> \u015d </s>"
-            ],
-            [
-                "Mochica-134-1",
-                "Mochica",
-                "134",
-                "no\u015d\u00f6n",
-                "n o <s> \u015d </s> \u00f6 n"
-            ],
-            [
-                "Mochica-142-1",
-                "Mochica",
-                "142",
-                "\u00f1o\u015d\u00f6n",
-                "\u0272 o <s> \u015d </s> \u00f6 n"
-            ],
-            [
-                "Mochica-154-1",
-                "Mochica",
-                "154",
-                "po\u010d\u00f6k",
-                "p o <s> \u010d </s> \u00f6 k"
-            ],
-            [
-                "Mochica-159-1",
-                "Mochica",
-                "159",
-                "pop\u015di",
-                "p o p <s> \u015d </s> i"
-            ],
-            [
-                "Mochica-161-1",
-                "Mochica",
-                "161",
-                "poto\u015d",
-                "p o t o <s> \u015d </s>"
-            ],
-            [
-                "Mochica-169-1",
-                "Mochica",
-                "169",
-                "ron\u00f6ms\u00f6k",
-                "r o n \u00f6 <s> ms </s> \u00f6 k"
-            ],
-            [
-                "Mochica-179-1",
-                "Mochica",
-                "179",
-                "siuki\u010d",
-                "s i u k i <s> \u010d </s>"
-            ],
-            [
-                "Mochica-180-1",
-                "Mochica",
-                "180",
-                "siu:ki\u010d",
-                "s i u\u02d0 k i <s> \u010d </s>"
-            ],
-            [
-                "Mochica-181-1",
-                "Mochica",
-                "181",
-                "\u015dap",
-                "<s> \u015d </s> a p"
-            ],
-            [
-                "Mochica-182-1",
-                "Mochica",
-                "182",
-                "\u015dol",
-                "<s> \u015d </s> o l"
-            ],
-            [
-                "Mochica-183-1",
-                "Mochica",
-                "183",
-                "\u015dek\u00f6n",
-                "<s> \u015d </s> e k \u00f6 n"
-            ],
-            [
-                "Mochica-184-1",
-                "Mochica",
-                "184",
-                "\u015der",
-                "<s> \u015d </s> e r"
-            ],
-            [
-                "Mochica-185-1",
-                "Mochica",
-                "185",
-                "\u015dod",
-                "<s> \u015d </s> o d"
-            ],
-            [
-                "Mochica-186-1",
-                "Mochica",
-                "186",
-                "\u015don\u00f6n",
-                "<s> \u015d </s> o n \u00f6 n"
-            ],
-            [
-                "Mochica-187-1",
-                "Mochica",
-                "187",
-                "\u015don\u015dom",
-                "<s> \u015d </s> o n <s> \u015d </s> o m"
-            ],
-            [
-                "Mochica-188-1",
-                "Mochica",
-                "188",
-                "\u015donto",
-                "<s> \u015d </s> o n t o"
-            ],
-            [
-                "Mochica-189-1",
-                "Mochica",
-                "189",
-                "\u015d\u00f6p\u00f6r",
-                "<s> \u015d </s> \u00f6 p \u00f6 r"
-            ],
-            [
-                "Mochica-190-1",
-                "Mochica",
-                "190",
-                "\u0161amik",
-                "<s> \u0161 </s> a m i k"
-            ],
-            [
-                "Mochica-191-1",
-                "Mochica",
-                "191",
-                "\u0161emetok",
-                "<s> \u0161 </s> e m e t o k"
-            ],
-            [
-                "Mochica-192-1",
-                "Mochica",
-                "192",
-                "\u0161i",
-                "<s> \u0161 </s> i"
-            ],
-            [
-                "Mochica-193-1",
-                "Mochica",
-                "193",
-                "te\u015d",
-                "t e <s> \u015d </s>"
-            ],
-            [
-                "Mochica-2-1",
-                "Mochica",
-                "2",
-                "alai\u00f1s\u00f6k",
-                "a l a i <s> \u00f1s </s> \u00f6 k"
-            ],
-            [
-                "Mochica-24-1",
-                "Mochica",
-                "24",
-                "ty\u00f6t\u00f6\u015d",
-                "t y \u00f6 t \u00f6 <s> \u015d </s>"
-            ],
-            [
-                "Mochica-28-1",
-                "Mochica",
-                "28",
-                "Tyimor",
-                "<s> <?> </s> y i m o r"
-            ],
-            [
-                "Mochica-30-1",
-                "Mochica",
-                "30",
-                "tyu\u015dku",
-                "t y u <s> \u015d </s> k u"
-            ],
-            [
-                "Mochica-32-1",
-                "Mochica",
-                "32",
-                "\u010da\u0273",
-                "<s> \u010d </s> a \u0273"
-            ],
-            [
-                "Mochica-33-1",
-                "Mochica",
-                "33",
-                "\u010da\u0273il\u0303",
-                "<s> \u010d </s> a \u0273 i l\u0303"
-            ],
-            [
-                "Mochica-34-1",
-                "Mochica",
-                "34",
-                "\u010da\u0273k\u00f6d",
-                "<s> \u010d </s> a \u0273 k \u00f6 d"
-            ],
-            [
-                "Mochica-35-1",
-                "Mochica",
-                "35",
-                "\u010dek",
-                "<s> \u010d </s> e k"
-            ],
-            [
-                "Mochica-36-1",
-                "Mochica",
-                "36",
-                "\u010d\u00f6mpu",
-                "<s> \u010d </s> \u00f6 m p u"
-            ],
-            [
-                "Mochica-37-1",
-                "Mochica",
-                "37",
-                "\u010di",
-                "<s> \u010d </s> i"
-            ],
-            [
-                "Mochica-38-1",
-                "Mochica",
-                "38",
-                "\u010di\u010du",
-                "<s> \u010d </s> i <s> \u010d </s> u"
-            ],
-            [
-                "Mochica-39-1",
-                "Mochica",
-                "39",
-                "\u010din",
-                "<s> \u010d </s> i n"
-            ],
-            [
-                "Mochica-4-1",
-                "Mochica",
-                "4",
-                "amo\u015d",
-                "a m o <s> \u015d </s>"
-            ],
-            [
-                "Mochica-40-1",
-                "Mochica",
-                "40",
-                "\u010diin",
-                "<s> \u010d </s> ii n"
-            ],
-            [
-                "Mochica-41-1",
-                "Mochica",
-                "41",
-                "\u010duk\u00f6\u015d",
-                "<s> \u010d </s> u k \u00f6 <s> \u015d </s>"
-            ],
-            [
-                "Mochica-48-1",
-                "Mochica",
-                "48",
-                "\u00f6f\u0161ia\u015d",
-                "\u00f6 f <s> \u0161 </s> i a <s> \u015d </s>"
-            ],
-            [
-                "Mochica-54-1",
-                "Mochica",
-                "54",
-                "fa\u010dka",
-                "f a <s> \u010d </s> k a"
-            ],
-            [
-                "Mochica-62-1",
-                "Mochica",
-                "62",
-                "f\u00f6\u015d",
-                "f \u00f6 <s> \u015d </s>"
-            ],
-            [
-                "Mochica-63-1",
-                "Mochica",
-                "63",
-                "fi\u010dil\u0303ko",
-                "f i <s> \u010d </s> i l\u0303 k o"
-            ],
-            [
-                "Mochica-82-1",
-                "Mochica",
-                "82",
-                "kafsok",
-                "k a <s> fs </s> o k"
-            ],
-            [
-                "Mochica-83-1",
-                "Mochica",
-                "83",
-                "kai\u0161kop\u00f6k",
-                "k a i <s> \u0161 </s> k o p \u00f6 k"
-            ],
-            [
-                "Mochica-89-1",
-                "Mochica",
-                "89",
-                "k\u00f6sme\u0273",
-                "k <s> \u00f6s </s> m e \u0273"
-            ],
-            [
-                "Mochica-90-1",
-                "Mochica",
-                "90",
-                "ki\u010dku",
-                "k i <s> \u010d </s> k u"
-            ],
-            [
-                "Mochica-91-1",
-                "Mochica",
-                "91",
-                "ki\u0161mik",
-                "k i <s> \u0161 </s> m i k"
-            ]
-        ],
-        "bad_words_count": 54,
-        "bipa_errors": [
-            "\u00f6s",
-            "\u00f1s",
-            "<<~>>",
-            "ms",
-            "\u010d",
-            "<?>",
-            "fs",
-            "\u015d",
-            "\u0161"
-        ],
-        "general_errors": 58,
+        "bad_words": [],
+        "bad_words_count": 0,
+        "bipa_errors": [],
+        "general_errors": 0,
         "invalid_words": [],
         "invalid_words_count": 0,
-        "inventory_size": 37.0,
+        "inventory_size": 31.0,
         "replacements": {
-            "+": [
-                "+"
-            ],
             "a": [
                 "a"
             ],
@@ -573,17 +164,17 @@
             "i": [
                 "i"
             ],
-            "ii": [
-                "ii"
+            "i:": [
+                "i\u02d0"
+            ],
+            "j": [
+                "j"
             ],
             "k": [
                 "k"
             ],
             "l": [
                 "l"
-            ],
-            "l\u0303": [
-                "l\u0303"
             ],
             "m": [
                 "m"
@@ -594,17 +185,11 @@
             "o": [
                 "o"
             ],
-            "o\u0308": [
-                "o\u0308"
-            ],
             "p": [
                 "p"
             ],
             "r": [
                 "r"
-            ],
-            "r\u0303": [
-                "r\u0303"
             ],
             "s": [
                 "s"
@@ -615,74 +200,76 @@
             "ts": [
                 "ts"
             ],
+            "t\u0255": [
+                "t\u0255"
+            ],
+            "t\u0283": [
+                "t\u0283"
+            ],
             "u": [
                 "u"
             ],
             "u\u02d0": [
                 "u\u02d0"
             ],
-            "y": [
-                "y"
+            "\u00f8": [
+                "\u00f8"
             ],
-            "\u00e6": [
-                "\u00e6"
+            "\u0153": [
+                "\u0153"
+            ],
+            "\u026c": [
+                "\u026c"
             ],
             "\u0272": [
                 "\u0272"
             ],
             "\u0273": [
                 "\u0273"
+            ],
+            "\u027e": [
+                "\u027e"
+            ],
+            "\u0282": [
+                "\u0282"
+            ],
+            "\u028e": [
+                "\u028e"
             ]
         },
-        "sclass_errors": [
-            "\u00f6s",
-            "\u00f1s",
-            "<<~>>",
-            "ms",
-            "\u010d",
-            "<?>",
-            "fs",
-            "\u015d",
-            "\u0161"
-        ],
+        "sclass_errors": [],
         "segments": {
-            "+": 2,
-            "<<~>>": 1,
-            "<?>": 1,
             "a": 74,
             "a\u02d0": 3,
             "d": 8,
             "e": 47,
-            "f": 24,
-            "fs": 1,
+            "f": 25,
             "i": 82,
-            "ii": 1,
+            "i:": 1,
+            "j": 12,
             "k": 94,
             "l": 27,
-            "l\u0303": 32,
-            "m": 36,
-            "ms": 1,
+            "m": 37,
             "n": 46,
             "o": 61,
             "p": 42,
-            "r": 23,
-            "r\u0303": 4,
-            "s": 24,
-            "t": 59,
+            "r": 4,
+            "s": 28,
+            "t": 36,
             "ts": 11,
+            "t\u0255": 24,
+            "t\u0283": 21,
             "u": 45,
             "u\u02d0": 3,
-            "y": 36,
-            "\u00e6": 1,
-            "\u00e7": 21,
-            "\u00f1s": 1,
-            "\u00f6": 70,
-            "\u00f6s": 1,
-            "\u010d": 21,
-            "\u015d": 24,
-            "\u0161": 7,
-            "\u0272": 15,
-            "\u0273": 20
+            "\u00e7": 7,
+            "\u00f8": 71,
+            "\u0153": 1,
+            "\u026c": 21,
+            "\u0272": 16,
+            "\u0273": 20,
+            "\u027e": 23,
+            "\u0282": 24,
+            "\u028e": 11
         }
     }
 }
