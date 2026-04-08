@@ -9,7 +9,7 @@ from lingpy import Wordlist
 class Dataset(BaseDataset):
     dir = pathlib.Path(__file__).parent
     id = "cerronpalominomochica"
-    # form_spec = FormSpec(separators=";,~/", replacements=[(" ", "_")])
+    form_spec = FormSpec(separators=";,~/", replacements=[(" ", "_")])
 
     writer_options = {'keep_languages': False, 'keep_parameters': False}
 

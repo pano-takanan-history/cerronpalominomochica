@@ -1,208 +1,206 @@
-ID	GLOSS
-1	cacique
-2	eructo
-3	garganta
-4	de ninguna manera
-5	terminar
-6	poderoso
-7	del mismo modo
-8	aquél
-9	frío
-10	tú
-11	llevar
-12	de ustedes
-13	cadera
-14	niño
-15	úvula
-16	párpados
-17	dientes
-18	techo
-19	carrillo
-20	hiel
-21	gavilán
-22	corvas
-23	culebra
-24	corazón
-25	hermana (de hermana)
-26	deshonesto
-27	manta
-28	Trujillo
-29	muchacho
-30	manta de dorminr
-31	ombligo
-32	hermano (de mujer)
-33	(nombre proprio)
-34	pariente
-35	amar
-36	sombra
-37	ser
-38	seno
-39	separar
-40	deleitarse
-41	choquezuela
-42	lengua
-43	hijo
-44	padre
-45	quién
-46	cinco
-47	crear
-48	cuántas veces
-49	agacharse
-50	sal
-51	yuca
-52	carne
-53	pobre
-54	leña
-55	ingle
-56	perro
-57	fiesta
-58	pato
-59	espalda
-60	soñar
-61	sueño
-62	lucma
-63	tripas
-64	noble
-65	hombro
-66	pecado
-67	día
-68	casadera
-69	tener miedo
-70	todos
-71	pantorrillas
-72	pescado
-73	dinero
-74	canas
-75	sol
-76	de por sí
-77	llamar
-78	comer
-79	comida
-80	buche
-81	pie de árbol
-82	riñones
-83	sostenedor
-84	orina
-85	quijada
-86	vagina
-87	trueque, reemplazo
-88	carne
-89	primo
-90	dedo meñique
-91	anciano
-92	tía (o hermana mayor)
-93	caballo
-94	barba
-95	sangre
-96	remolino
-97	cielo
-98	agua
-99	costillas
-100	pellejo
-101	pares
-102	ocho
-103	tobillo
-104	cabeza
-105	afuera
-106	con
-107	morir
-108	muerte
-109	toquilla
-110	vello
-111	planta del pie
-112	dedos
-113	envidiar
-114	lunar
-115	ídolo
-116	mujer
-117	muelas
-118	traer
-119	manos
-120	adorar
-121	nuestro
-122	hablar
-123	uña
-124	codo
-125	alma
-126	huevo
-127	de mañana
-128	paso
-129	posaderas
-130	goloso
-131	cien
-132	cejas
-133	pestañas
-134	rodillas
-135	ave
-136	marido
-137	siete
-138	nalgas
-139	espinazo
-140	sesos
-141	hombre
-142	medida
-143	cejas
-144	lluvia
-145	brazo
-146	ladrón
-147	tonto
-148	vasallo
-149	bueno
-150	hierba
-151	esófago
-152	muslo
-153	dar
-154	hígado
-155	agorero
-156	bazo
-157	cuñada
-158	piedra
-159	tripa, buche
-160	adormecimiento
-161	testículos
-162	bofes
-163	lechuza
-164	palo
-165	subir
-166	tigre
-167	loco
-168	tráquea
-169	dolor
-170	cabello
-171	cuello
-172	abajo
-173	espinilla
-174	redaño
-175	señor
-176	palabra
-177	solo
-178	aquél
-179	por allá
-180	de allí
-181	boca
-182	frente
-183	debajo
-184	ventosidad
-185	pecho
-186	esposa
-187	cola, rabo
-188	buitre
-189	nervio
-190	señal
-191	sobaco
-192	luna
-193	talón
-194	ir
-195	calva
-196	pierna
-197	cara
-198	grande
-199	sobrino
-200	tierro, chacra
-201	resuello
-202	mollera
-203	cometer falta
-204	amígdalas
-205	truhán
-206	sirviente
-207	terminar
+ID	GLOSS	CONCEPTICON_ID	CONCEPTICON_GLOSS
+1	cacique	301	CHIEFTAIN
+2	eructo		
+3	garganta	1346	THROAT
+4	de ninguna manera		
+5	terminar	1766	FINISH
+6	poderoso	3001	POWERFUL
+7	del mismo modo		
+8	aquél	78	THAT
+9	frío	1287	COLD
+10	tú	1215	THOU
+11	llevar	700	CARRY
+12	de ustedes		
+13	cadera	1745	HIP
+14	niño	2099	CHILD
+15	úvula	2293	UVULA
+16	párpados	17	EYELID
+17	dientes	1380	TOOTH
+18	techo	769	ROOF
+19	carrillo	1730	CHEEK
+20	hiel	1780	BILE
+21	gavilán	307	HAWK
+22	corvas		
+23	culebra	730	SNAKE
+24	corazón	1223	HEART
+25	hermana (de hermana)	562	SISTER (OF WOMAN)
+26	deshonesto		
+27	manta	806	BLANKET
+28	Trujillo		
+29	muchacho	1366	BOY
+30	manta de dormir		
+31	ombligo	1838	NAVEL
+32	hermano (de mujer)	560	BROTHER (OF WOMAN)
+33	(nombre proprio)		
+34	pariente	1644	RELATIVES
+35	amar	923	LOVE
+36	sombra	1388	SHADE
+37	ser	1579	BE
+38	seno	1402	BREAST
+39	separar	1359	SEPARATE
+40	deleitarse		
+41	choquezuela		
+42	lengua	1205	TONGUE
+43	hijo	1620	SON
+44	padre	1217	FATHER
+45	quién	1235	WHO
+46	cinco	493	FIVE
+47	crear		
+48	cuántas veces		
+49	agacharse	296	CROUCH
+50	sal	1274	SALT
+51	yuca	925	CASSAVA
+52	carne	634	MEAT
+53	pobre	1674	POOR
+54	leña	10	FIREWOOD
+55	ingle		
+56	perro	2009	DOG
+57	fiesta	131	FESTIVAL
+58	pato	1360	DUCK
+59	espalda	1291	BACK
+60	soñar	1920	DREAM (SOMETHING)
+61	sueño	2374	DREAM
+62	lucma		
+63	tripas	1334	GUTS
+64	noble	482	NOBLE
+65	hombro	1482	SHOULDER
+66	pecado	2971	SIN
+67	día	1225	DAY (NOT NIGHT)
+68	casadera		
+69	tener miedo	1419	FEAR (BE AFRAID)
+70	todos	98	ALL
+71	pantorrillas	498	CALF OF LEG
+72	pescado	227	FISH
+73	dinero	1559	MONEY
+74	canas		
+75	sol	1343	SUN
+76	de por sí		
+77	llamar	1084	CALL
+78	comer	1336	EAT
+79	comida	256	FOOD
+80	buche		
+81	pie de árbol		
+82	riñones	489	KIDNEY
+83	sostenedor		
+84	orina	1142	URINE
+85	quijada	798	JAW
+86	vagina	1836	VAGINA
+87	trueque, reemplazo		
+89	primo	1643	COUSIN
+90	dedo meñique	2774	LITTLE FINGER
+91	anciano	406	OLD MAN
+92	tía (o hermana mayor)		
+93	caballo	615	HORSE
+94	barba	678	BEARD
+95	sangre	946	BLOOD
+96	remolino	1982	WHIRLPOOL
+97	cielo	1732	SKY
+98	agua	948	WATER
+99	costillas	801	RIB
+100	pellejo	763	SKIN
+101	pares		
+102	ocho	1705	EIGHT
+103	tobillo	803	ANKLE
+104	cabeza	1256	HEAD
+105	afuera	762	OUTSIDE
+106	con	1340	WITH
+107	morir	1494	DIE
+108	muerte	910	DEATH
+109	toquilla		
+110	vello	189	HAIR (BODY)
+111	planta del pie		
+112	dedos	1303	FINGER
+113	envidiar	40	ENVY
+114	lunar		
+115	ídolo	1945	IDOL
+116	mujer	962	WOMAN
+117	muelas	1049	MOLAR TOOTH
+118	traer	692	BRING
+119	manos	1277	HAND
+120	adorar	257	WORSHIP
+121	nuestro	780	OUR
+122	hablar	1623	SPEAK
+123	uña	1896	FINGERNAIL OR TOENAIL
+124	codo	981	ELBOW
+125	alma	811	SOUL
+126	huevo	744	EGG
+127	de mañana		
+128	paso	1158	STEP
+129	posaderas		
+130	goloso		
+131	cien	1634	HUNDRED
+132	cejas	1173	EYEBROW
+133	pestañas	1540	EYELASH
+134	rodillas	1371	KNEE
+135	ave	937	BIRD
+136	marido	1200	HUSBAND
+137	siete	1704	SEVEN
+138	nalgas	834	BUTTOCKS
+139	espinazo	805	SPINE
+140	sesos	1583	BRAIN
+141	hombre	1554	MAN
+142	medida		
+144	lluvia	658	RAIN (PRECIPITATION)
+145	brazo	1673	ARM
+146	ladrón	1160	THIEF
+147	tonto	1438	FOOL
+148	vasallo		
+149	bueno	1035	GOOD
+150	hierba	606	GRASS
+151	esófago		
+152	muslo	471	UPPER LEG (THIGH)
+153	dar	1447	GIVE
+154	hígado	1224	LIVER
+155	agorero		
+156	bazo	1744	SPLEEN
+157	cuñada	2317	SISTER-IN-LAW
+158	piedra	857	STONE
+159	tripa, buche		
+160	adormecimiento		
+161	testículos	797	testicles
+162	bofes		
+163	lechuza	735	OWL
+164	palo	1295	STICK
+165	subir	705	GO UP (ASCEND)
+166	tigre	846	TIGER
+167	loco	1899	MAD
+168	tráquea		
+169	dolor	1783	PAIN
+170	cabello	2648	HAIR (HEAD)
+171	cuello	1333	NECK
+172	abajo	1326	DOWN
+173	espinilla	186	SHIN
+174	redaño		
+175	señor		
+176	palabra	1599	WORD
+177	solo	1580	ONLY
+178	aquél	78	THAT
+179	por allá		
+180	de allí		
+181	boca	674	MOUTH
+182	frente	123	FOREHEAD
+183	debajo	1485	BELOW OR UNDER
+184	ventosidad		
+185	pecho	1592	CHEST
+186	esposa	1199	WIFE
+187	cola, rabo	1220	TAIL
+188	buitre	1185	VULTURE
+189	nervio	2626	NERVE
+190	señal		
+191	sobaco	1886	ARMPIT
+192	luna	1313	MOON
+193	talón	980	HEEL
+194	ir	695	GO
+195	calva		
+196	pierna	1297	LEG
+197	cara	1560	FACE
+198	grande	1202	BIG
+199	sobrino	1063	NEPHEW
+200	tierro, chacra		
+201	resuello		
+202	mollera		
+203	cometer falta		
+204	amígdalas		
+205	truhán		
+206	sirviente	255	SERVANT
+207	terminar	1766	FINISH
