@@ -4,7 +4,7 @@ ID	GLOSS	CONCEPTICON_ID	CONCEPTICON_GLOSS
 3	garganta	1346	THROAT
 4	de ninguna manera		
 5	terminar	1766	FINISH
-6	poderoso	3188	MIGHTY OR POWERFUL OR STRONG
+6	poderoso	3001	POWERFUL
 7	del mismo modo		
 8	aquél	78	THAT
 9	frío	1287	COLD
@@ -13,7 +13,7 @@ ID	GLOSS	CONCEPTICON_ID	CONCEPTICON_GLOSS
 12	de ustedes		
 13	cadera	1745	HIP
 14	niño	2099	CHILD
-15	úvula		
+15	úvula	2293	UVULA
 16	párpados	17	EYELID
 17	dientes	1380	TOOTH
 18	techo	769	ROOF
@@ -28,14 +28,14 @@ ID	GLOSS	CONCEPTICON_ID	CONCEPTICON_GLOSS
 27	manta	806	BLANKET
 28	Trujillo		
 29	muchacho	1366	BOY
-30	manta de dorminr		
+30	manta de dormir		
 31	ombligo	1838	NAVEL
 32	hermano (de mujer)	560	BROTHER (OF WOMAN)
 33	(nombre proprio)		
 34	pariente	1644	RELATIVES
 35	amar	923	LOVE
 36	sombra	1388	SHADE
-37	ser		
+37	ser	1579	BE
 38	seno	1402	BREAST
 39	separar	1359	SEPARATE
 40	deleitarse		
@@ -87,7 +87,7 @@ ID	GLOSS	CONCEPTICON_ID	CONCEPTICON_GLOSS
 86	vagina	1836	VAGINA
 87	trueque, reemplazo		
 89	primo	1643	COUSIN
-90	dedo meñique		
+90	dedo meñique	2774	LITTLE FINGER
 91	anciano	406	OLD MAN
 92	tía (o hermana mayor)		
 93	caballo	615	HORSE
@@ -118,7 +118,7 @@ ID	GLOSS	CONCEPTICON_ID	CONCEPTICON_GLOSS
 118	traer	692	BRING
 119	manos	1277	HAND
 120	adorar	257	WORSHIP
-121	nuestro		
+121	nuestro	780	OUR
 122	hablar	1623	SPEAK
 123	uña	1896	FINGERNAIL OR TOENAIL
 124	codo	981	ELBOW
