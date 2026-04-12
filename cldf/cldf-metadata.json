@@ -13,13 +13,13 @@
         {
             "rdf:about": "https://github.com/pano-takanan-history/cerronpalominomochica",
             "rdf:type": "prov:Entity",
-            "dc:created": "f8aba01",
+            "dc:created": "b5c700e",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v5.2.1",
+            "dc:created": "v5.3",
             "dc:title": "Glottolog"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.14.0"
+            "dc:description": "3.9.6"
         },
         {
             "dc:title": "python-packages",
