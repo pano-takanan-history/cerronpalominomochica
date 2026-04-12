@@ -21,13 +21,13 @@ work in progress
 
 
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
-![Concepticon: 0%](https://img.shields.io/badge/Concepticon-0%25-red.svg "Concepticon: 0%")
+![Concepticon: 75%](https://img.shields.io/badge/Concepticon-75%25-yellow.svg "Concepticon: 75%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
 - **Varieties:** 1 (linked to 1 different Glottocodes)
-- **Concepts:** 203 (linked to 0 different Concepticon concept sets)
+- **Concepts:** 203 (linked to 152 different Concepticon concept sets)
 - **Lexemes:** 208
 - **Sources:** 1
 - **Synonymy:** 1.02

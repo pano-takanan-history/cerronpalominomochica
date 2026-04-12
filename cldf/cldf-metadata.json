@@ -13,7 +13,7 @@
         {
             "rdf:about": "https://github.com/pano-takanan-history/cerronpalominomochica",
             "rdf:type": "prov:Entity",
-            "dc:created": "b5c700e",
+            "dc:created": "b55b8c3",
             "dc:title": "Repository"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.9.6"
+            "dc:description": "3.14.4"
         },
         {
             "dc:title": "python-packages",
